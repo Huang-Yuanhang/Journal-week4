@@ -1,8 +1,13 @@
 # Learning Journals-week4 (include screenshot)
 ## Dynamic site with a database (either a CMS or code+DB) screenshot
-![Data_base](https://github.com/Huang-Yuanhang/Journals-week4/assets/140174372/b60dd763-df2d-4028-b4a2-69e2dc5e5d4a)
-![xampp](https://github.com/Huang-Yuanhang/Journals-week4/assets/140174372/ec438893-428c-4aed-a24c-a95ba0ac9996)
-![dashboard](https://github.com/Huang-Yuanhang/Journals-week4/assets/140174372/1392cd4e-75d0-4352-8b49-e54cdb523f63)
+
+![Data_base](https://github.com/Huang-Yuanhang/Journal-week4/assets/140174372/6ac44a36-3c83-43d7-944c-bdd9b398446b)
+![xampp](https://github.com/Huang-Yuanhang/Journal-week4/assets/140174372/323ce6cb-d960-4bb7-956a-4278eaaecbcc)
+![dashboard](https://github.com/Huang-Yuanhang/Journal-week4/assets/140174372/bf5fcd85-a1ee-465e-9963-85ce9eca8569)
+
+
+
+
 
 ### Description
 Download XAMPP, then download wordpress.zip file, extract wordpress.zip file in htdocs, open XAMPP Control Panel, start Apache and MySQL until it turns green.
